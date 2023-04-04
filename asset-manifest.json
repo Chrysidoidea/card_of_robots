@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cards_of_robots/static/css/main.a4a8cfd4.css",
+    "main.js": "/cards_of_robots/static/js/main.d2306b12.js",
+    "static/js/787.62b89055.chunk.js": "/cards_of_robots/static/js/787.62b89055.chunk.js",
+    "index.html": "/cards_of_robots/index.html",
+    "main.a4a8cfd4.css.map": "/cards_of_robots/static/css/main.a4a8cfd4.css.map",
+    "main.d2306b12.js.map": "/cards_of_robots/static/js/main.d2306b12.js.map",
+    "787.62b89055.chunk.js.map": "/cards_of_robots/static/js/787.62b89055.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a8cfd4.css",
+    "static/js/main.d2306b12.js"
+  ]
+}
