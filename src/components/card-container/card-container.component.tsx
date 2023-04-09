@@ -1,7 +1,11 @@
 import {CardContainerBase} from './card-container.styles';
+import {Robot} from "../../App";
 
-const CardContainer = ({props}) => {
-    const {name, email, username, id} = props;
+type CardProps = {
+    robot: Robot;
+}
+const CardContainer = ({robot}: CardProps) => {
+    const {name, email, username, id} = robot;
 
     return (
         <CardContainerBase key={id}>

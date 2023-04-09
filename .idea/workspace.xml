@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4984682d-353d-4cbb-bc4c-513191546e7e" name="Changes" comment="fixed README.md" />
+    <list default="true" id="4984682d-353d-4cbb-bc4c-513191546e7e" name="Changes" comment="fixed README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card-container/card-container.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-container/card-container.component.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card-list/card-list.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-list/card-list.component.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-box/search-box.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-box/search-box.component.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="tsconfig.json" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -37,12 +46,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Tomas Dvorak/WebstormProjects/simple-pics-viewer",
+    "last_opened_file_path": "D:/Webstorm Projects/dont-panic",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\Webstorm Projects\\cards_of_robots\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,6 +75,10 @@
       <workItem from="1680587341930" duration="952000" />
       <workItem from="1680612339487" duration="5894000" />
       <workItem from="1680659609947" duration="781000" />
+      <workItem from="1680751167177" duration="211000" />
+      <workItem from="1680921615852" duration="6637000" />
+      <workItem from="1680932596702" duration="1489000" />
+      <workItem from="1680946257795" duration="3441000" />
     </task>
     <task id="LOCAL-00001" summary="fixed README.md">
       <created>1680662154337</created>
@@ -73,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680662154337</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed README.md">
+      <created>1680751232257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680751232257</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
